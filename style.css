@@ -1,0 +1,32 @@
+#submit_button
+{
+	background-color: darkseagreen;
+	margin-top: 20px; 
+	margin-bottom: 20px; 
+}
+#show{
+	background-color: darksalmon;
+}
+#sort
+{
+	background-color: darkturquoise;
+	display: none;
+	margin-top: 20px; 
+	margin-bottom: 20px;
+}
+#search_button{
+	background-color: goldenrod;
+}
+input
+{
+	background-color: greenyellow;
+	margin: 10px;
+}
+body{
+	background-color: azure;
+}
+h3{
+	font-size: x-large;
+	color: darkviolet;
+	font-family: cursive;
+}
